@@ -59,6 +59,22 @@ This project is an academic prototype. Some university service modules display s
 
 ## Developer
 Developed as a university academic project.
+By Mohamud Mohamed
 
 ## Version
 Version 1.0.0
+
+
+## Download APK
+
+You can download and install the UMMA University Management App using the link below.
+
+[**Download UMMA University App v1.0.0 (APK)**](https://github.com/mudu12345/UMMA-University-Management-App/releases/download/v1.0.0/app-debug.apk)
+
+### Installation Instructions
+1. Click the download link above.
+2. Download the APK file.
+3. Open the downloaded APK on your Android phone.
+4. Allow installation from this source if Android requests permission.
+5. Install and launch the application.
+
