@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Premium University Colours -->
+    <color name="umma_blue">#123B6D</color>
+    <color name="umma_dark_blue">#082747</color>
+    <color name="umma_gold">#D4AF37</color>
+    <color name="umma_light_gold">#F5EAC5</color>
+
+    <!-- Backgrounds -->
+    <color name="umma_white">#FFFFFF</color>
+    <color name="umma_background">#F5F7FA</color>
+    <color name="umma_card">#FFFFFF</color>
+
+    <!-- Text -->
+    <color name="umma_text">#172B45</color>
+    <color name="umma_secondary_text">#66758A</color>
+
+    <!-- Borders and Status -->
+    <color name="umma_border">#E2E8F0</color>
+    <color name="umma_success">#198754</color>
+
+</resources>
